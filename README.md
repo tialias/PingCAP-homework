@@ -1,1 +1,1 @@
-# PIngCAP-homework
+# PingCAP-homework
